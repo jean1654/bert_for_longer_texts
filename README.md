@@ -2,6 +2,10 @@
 
 🚀**New in version 1.1.0: support for multilabel and regression**. See [the examples](#examples)🚀
 
+### Additional Reference Blogpost
+
+https://www.mim.ai/fine-tuning-bert-model-for-arbitrarily-long-texts-part-2/
+
 ## Project description and motivation
 
 ### The BELT approach
